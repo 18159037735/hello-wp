@@ -1,0 +1,2 @@
+# hello-wp
+test wp
